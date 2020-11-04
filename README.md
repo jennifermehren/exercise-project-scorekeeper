@@ -1,19 +1,17 @@
 # Aufgabenstellung
 
-Topics:
-- Declaring Variables
-- Adding Event Listeners
-- Declaring and calling functions
+Themen:
+- Variablen deklarien
+- Event Listener hinzufügen
+- Funktionen definieren und aufrufen
 - Modifying the DOM with .innerText & .innerHTML
 
-Instructions:
+Anleitung:
 
-- We are creating a site to keep the score for a basketball game.
-- The site loads with the score at 0 - 0
-- There are six buttons which allows the user to add 1, 2 or 3 - points to either the home or away team.
-- There is also a reset button which allows the user to set the scores back to 0 - 0
-
-## Inhalt
+- Wir erstellen eine Seite die den aktuellen Stand eines Basketballspiels zeigt
+- Die Seite lädt bei einem Anfangsspielstand von 0 - 0
+- Wir haben sechs Buttons, die uns erlauben den Mannschaften (Home & Away) entweder 1, 2 oder 3 Punkte hinzuzufügen
+- Es gibt noch einen Button (Reset) mit dem wir den Spielstand wieder auf 0 - 0 setzen können
 
 ## Assets
 
