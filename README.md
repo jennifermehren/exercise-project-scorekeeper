@@ -17,7 +17,13 @@ Anleitung:
 
 __Fonts:__ Geo, Arial
 
-__Farben:__ RGB (40, 40, 40), RGB (0, 0, 0), RGB (78, 245, 188), RGB (74, 94, 244), RGB (255, 248, 96), RGB (255, 255, 255)
+__Farben:__ 
+RGB (40, 40, 40)
+RGB (0, 0, 0)
+RGB (78, 245, 188)
+RGB (74, 94, 244)
+RGB (255, 248, 96)
+RGB (255, 255, 255)
 
 ## Ergebnisvorschau
 
