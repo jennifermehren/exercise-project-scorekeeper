@@ -15,12 +15,16 @@ Anleitung:
 
 ## Assets
 
-__Fonts:__ Geo, Arial
+__Fonts:__ Orbitron, Lato
 
 __Farben:__ 
-RGB (40, 40, 40), yellow, black, white, turquoise, royalblue
+#282828, #FFF851, #000000, #FFFFFF, #4FF5B9, #4C5DF8
 
 ## Ergebnisvorschau
 
 ![Preview](vorschau.png)
 [Figma](https://www.figma.com/file/KRWquw7lIJcLT8PIDrZnyd/Basketball-Scorekeeper?node-id=0%3A1)
+
+## Bonus Herausforderung
+
+Erstelle einen Button, der ein modales Fenster öffnet, in dem der Benutzer die Teamnamen eingeben kann.
