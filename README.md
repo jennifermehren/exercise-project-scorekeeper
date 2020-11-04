@@ -4,7 +4,7 @@ Themen:
 - Variablen deklarien
 - Event Listener hinzufügen
 - Funktionen definieren und aufrufen
-- Modifying the DOM with .innerText & .innerHTML
+- Textinhalte mit .innerText bzw. .innerHTML verändern
 
 Anleitung:
 
