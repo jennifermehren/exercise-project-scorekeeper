@@ -95,6 +95,11 @@ main {
   color: #ffffff;
 }
 
+.buttonBox button:hover{
+  color: #282828;
+  box-shadow: 2px 2px lightgray;
+}
+
 #greenArea button {
   background-color: #4ff5b9;
   
@@ -115,4 +120,35 @@ main {
   border-radius: 8px;
   border: 2px #282828 solid;
   font-weight: bold;
+}
+
+#reset:hover{
+  font-size: larger;
+  box-shadow: 2px 2px lightgray;
+}
+
+/* -------modal Button-------- */
+
+#modalButton{
+  position: absolute;
+  top: 5%;
+  height: 3rem;
+  width: 20rem;
+  border-radius: 8px;
+  border: 2px #282828 solid;
+  
+  font-size: 1.5rem;
+  background-color:#4ff5b9;
+  color: #4c5df8;
+}
+
+#modalButton:hover{
+  font-weight: bold;
+  font-size: 1.5rem;
+  background-color: #4c5df8 ;
+  color: #4ff5b9;
+}
+
+#modalButton:hover::after{
+  content: ' >>';
 }
