@@ -1,12 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Project Scorekeeper</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-</head>
-<body>
-    
-</body>
+    <link rel="stylesheet" href="assets/css/style.css" />
+  </head>
+  <body>
+    <main>
+      <section id="greenArea">
+        <div class="rectangle" id="greenRectangle">
+          <p class="counter" id="counterGreen">0</p>
+        </div>
+        <p class="teamName" id="teamNameGreen">home</p>
+        <div class="buttonBox">
+          <button id="addOneGreen">+1</button>
+          <button id="addTwoGreen">+2</button>
+          <button id="addThreeGreen">+3</button>
+        </div>
+      </section>
+      <section id="blueArea">
+        <div class="rectangle" id="blueRectangle">
+          <p class="counter" id="counterBlue">0</p>
+        </div>
+        <p class="teamName" id="teamNameBlue">away</p>
+        <div class="buttonBox">
+          <button id="addOneBlue">+1</button>
+          <button id="addTwoBlue">+2</button>
+          <button id="addThreeBlue">+3</button>
+        </div>
+      </section>
+      <button id="reset">Reset</button>
+    </main>
+    <script src="assets/js/script.js"></script>
+  </body>
 </html>
