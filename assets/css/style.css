@@ -43,11 +43,9 @@ main {
   border-radius: 20px;
   height: 480px;
   width: 480px;
-  border-radius: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
-  text-align: center;
   color: #fff851;
 }
 #greenRectangle {
@@ -68,7 +66,6 @@ main {
   line-height: 181px;
   display: flex;
   align-items: center;
-  text-align: center;
   justify-content: center;
   color: #fff851;
 }
@@ -87,11 +84,10 @@ main {
   margin-top: 5rem;
   margin-left: 1rem;             
   margin-right: 1rem;
-  border-radius: 16px;
   height: 100px;
   width: 100px;
-  border-radius: 16px;
   border: 2px #282828 solid;
+  border-radius: 16px;
   color: #ffffff;
 }
 
@@ -114,9 +110,9 @@ main {
 #reset {
   display: block;
   position: absolute;
+  bottom: 5%;
   height: 2rem;
   width: 6rem;
-  bottom: 5%;
   border-radius: 8px;
   border: 2px #282828 solid;
   font-weight: bold;
